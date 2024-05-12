@@ -1,0 +1,6 @@
+﻿  DoVui.cpp
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BTChuong5-KeThua\DoVui.cpp(118,12): error C2555: 'BieuThucPhanSo::tinhKetQua': overriding virtual function return type differs and is not covariant from 'BieuThucSoHoc::tinhKetQua'
+  D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BTChuong5-KeThua\DoVui.cpp(67,17):
+  see declaration of 'BieuThucSoHoc::tinhKetQua'
+  
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BTChuong5-KeThua\DoVui.cpp(137,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data

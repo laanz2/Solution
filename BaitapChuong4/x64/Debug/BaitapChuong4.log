@@ -1,0 +1,16 @@
+﻿  InsertionOpertator.cpp
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BaitapChuong4\Menu.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'InsertionOpertator.cpp')
+  
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BaitapChuong4\Menu.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'InsertionOpertator.cpp')
+  
+  Menu.cpp
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BaitapChuong4\Menu.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BaitapChuong4\Menu.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+  Generating Code...
+  BaitapChuong4.vcxproj -> D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\x64\Debug\BaitapChuong4Bai1-InsertionOperator.exe

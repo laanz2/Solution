@@ -1,0 +1,8 @@
+﻿  quanlySach.cpp
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BT_Sach\quanlySach.cpp(22,20): warning C4101: 'dem': unreferenced local variable
+D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\BT_Sach\quanlySach.cpp(151,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sach.cpp
+  SachGiaoKHoa.cpp
+  SachThamKhao.cpp
+  Generating Code...
+  BT_Sach.vcxproj -> D:\CauTruc&Oop\Ne-heLanDuySinhNguyen\x64\Debug\BT_Sach.exe

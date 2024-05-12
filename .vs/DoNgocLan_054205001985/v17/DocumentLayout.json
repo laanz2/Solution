@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\quanlySach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|solutionrelative:BT_Sach\\quanlySach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\ChuyenXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|solutionrelative:BT_ChuyenXe\\ChuyenXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachThamKhao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|solutionrelative:BT_Sach\\SachThamKhao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachGiaoKHoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|solutionrelative:BT_Sach\\SachGiaoKHoa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\Sach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|solutionrelative:BT_Sach\\Sach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachThamKhao.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|solutionrelative:BT_Sach\\SachThamKhao.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachGiaoKhoa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|solutionrelative:BT_Sach\\SachGiaoKhoa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\Sach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4460070-40E3-4D81-B45B-3CD157A8A231}|BT_Sach\\BT_Sach.vcxproj|solutionrelative:BT_Sach\\Sach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\testChuyenXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|solutionrelative:BT_ChuyenXe\\testChuyenXe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NoiThanh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|solutionrelative:BT_ChuyenXe\\NoiThanh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NgoaiThanh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|solutionrelative:BT_ChuyenXe\\NgoaiThanh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NoiThanh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|solutionrelative:BT_ChuyenXe\\NoiThanh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NgoaiThanh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|solutionrelative:BT_ChuyenXe\\NgoaiThanh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\ChuyenXe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B962BC81-1630-4CE3-9767-17A87A013DE0}|BT_ChuyenXe\\BT_ChuyenXe.vcxproj|solutionrelative:BT_ChuyenXe\\ChuyenXe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SachThamKhao.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachThamKhao.cpp",
+              "RelativeDocumentMoniker": "BT_Sach\\SachThamKhao.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachThamKhao.cpp",
+              "RelativeToolTip": "BT_Sach\\SachThamKhao.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T16:06:55.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sach.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\Sach.cpp",
+              "RelativeDocumentMoniker": "BT_Sach\\Sach.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\Sach.cpp",
+              "RelativeToolTip": "BT_Sach\\Sach.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAswFcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T16:06:28.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quanlySach.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\quanlySach.cpp",
+              "RelativeDocumentMoniker": "BT_Sach\\quanlySach.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\quanlySach.cpp",
+              "RelativeToolTip": "BT_Sach\\quanlySach.cpp",
+              "ViewState": "AQIAALIAAAAAAAAAAAAswLsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T16:06:12.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SachThamKhao.h",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachThamKhao.h",
+              "RelativeDocumentMoniker": "BT_Sach\\SachThamKhao.h",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachThamKhao.h",
+              "RelativeToolTip": "BT_Sach\\SachThamKhao.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T16:05:54.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SachGiaoKhoa.h",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachGiaoKhoa.h",
+              "RelativeDocumentMoniker": "BT_Sach\\SachGiaoKhoa.h",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachGiaoKhoa.h",
+              "RelativeToolTip": "BT_Sach\\SachGiaoKhoa.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T16:05:36.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sach.h",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\Sach.h",
+              "RelativeDocumentMoniker": "BT_Sach\\Sach.h",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\Sach.h",
+              "RelativeToolTip": "BT_Sach\\Sach.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T16:03:44.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NoiThanh.h",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NoiThanh.h",
+              "RelativeDocumentMoniker": "BT_ChuyenXe\\NoiThanh.h",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NoiThanh.h",
+              "RelativeToolTip": "BT_ChuyenXe\\NoiThanh.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T16:01:34.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChuyenXe.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\ChuyenXe.cpp",
+              "RelativeDocumentMoniker": "BT_ChuyenXe\\ChuyenXe.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\ChuyenXe.cpp",
+              "RelativeToolTip": "BT_ChuyenXe\\ChuyenXe.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T15:48:09.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SachGiaoKHoa.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachGiaoKHoa.cpp",
+              "RelativeDocumentMoniker": "BT_Sach\\SachGiaoKHoa.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_Sach\\SachGiaoKHoa.cpp",
+              "RelativeToolTip": "BT_Sach\\SachGiaoKHoa.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAswEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T16:06:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NgoaiThanh.h",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NgoaiThanh.h",
+              "RelativeDocumentMoniker": "BT_ChuyenXe\\NgoaiThanh.h",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NgoaiThanh.h",
+              "RelativeToolTip": "BT_ChuyenXe\\NgoaiThanh.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T16:01:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChuyenXe.h",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\ChuyenXe.h",
+              "RelativeDocumentMoniker": "BT_ChuyenXe\\ChuyenXe.h",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\ChuyenXe.h",
+              "RelativeToolTip": "BT_ChuyenXe\\ChuyenXe.h",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-11T15:49:46.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NgoaiThanh.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NgoaiThanh.cpp",
+              "RelativeDocumentMoniker": "BT_ChuyenXe\\NgoaiThanh.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NgoaiThanh.cpp",
+              "RelativeToolTip": "BT_ChuyenXe\\NgoaiThanh.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T15:47:17.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NoiThanh.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NoiThanh.cpp",
+              "RelativeDocumentMoniker": "BT_ChuyenXe\\NoiThanh.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\NoiThanh.cpp",
+              "RelativeToolTip": "BT_ChuyenXe\\NoiThanh.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T15:47:15.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "testChuyenXe.cpp",
+              "DocumentMoniker": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\testChuyenXe.cpp",
+              "RelativeDocumentMoniker": "BT_ChuyenXe\\testChuyenXe.cpp",
+              "ToolTip": "D:\\CauTruc\u0026Oop\\DoNgocLan_054205001985\\BT_ChuyenXe\\testChuyenXe.cpp",
+              "RelativeToolTip": "BT_ChuyenXe\\testChuyenXe.cpp",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAswBoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T15:47:11.174Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
